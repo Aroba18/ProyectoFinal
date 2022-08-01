@@ -13,11 +13,12 @@
 }
 
 img{
-    width: 50px; 
+    width: 45px; 
 }
+
 .btn{
     border-width: medium;
-}
+} 
 
 /*--- Para la vista de celular---*/
 @media (max-width: 575px){
@@ -33,4 +34,5 @@ img{
         margin: 0.2em;
     }   
 }
+
 

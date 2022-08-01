@@ -32,3 +32,11 @@ div{
     margin-top: 40%;
     margin-left: 10px;
 }
+
+#tituloA{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+ 
